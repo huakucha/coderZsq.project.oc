@@ -1,0 +1,16 @@
+├── Template //模板文件
+│   ├── ControllerTemplate.h
+│   ├── ControllerTemplate.m
+│   ├── InterfaceTemplate.h
+│   ├── ModelTemplate.h
+│   ├── ModelTemplate.m
+│   ├── PresenterTemplate.h
+│   ├── PresenterTemplate.m
+│   ├── ViewModelTemplate.h
+│   ├── ViewModelTemplate.m
+│   ├── ViewTemplate.h
+│   └── ViewTemplate.m
+├── builder.py //生成器执行文件
+└── config.json //生成器配置文件
+
+https://coderzsq.github.io/2017/05/iOS-%E6%89%A7%E8%A1%8C.py%E8%84%9A%E6%9C%AC%E7%94%9F%E6%88%90%E8%A7%A3%E8%80%A6%E6%9E%B6%E6%9E%84/
